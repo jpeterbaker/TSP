@@ -1,0 +1,37 @@
+AA,                      29720838, -95342706
+Albertus,                29723628, -95338570
+Anne Plaza,              29721242, -95342718
+Architecture Roof,       29724241, -95342550
+Art on Campus,           29726868, -95340900
+Blaffer,                 29724754, -95342810
+Bronze Cougars,          29720614, -95344115
+Cheyenne,                29721354, -95342890
+Colourful Serpentine,    29718968, -95339824
+Cube Geysers,            29719570, -95344160
+Cultural Reach,          29723828, -95344442
+Four Lies,               29718543, -95342836
+Gourds,                  29721842, -95338516
+Half Spheres,            29723626, -95346047
+Healing Nature,          29718526, -95338202
+Hilton Twist,            29719427, -95341260
+Lynn Plaza,              29719444, -95342942
+Orpheus,                 29724739, -95342404
+Pond Art,                29724284, -95340758
+Quad Art,                29723437, -95343413
+Red Crane,               29723328, -95340633
+Redtub,                  29723664, -95342195
+Sandy,                   29722732, -95344743
+Shapeless Triangle,      29718389, -95344697
+Sofu Teshighara,         29722490, -95343887
+Spikey Flag,             29719237, -95342758
+Tau Beta,                29723095, -95341709
+Troika,                  29723953, -95345359
+Tube Tree,               29723249, -95341197
+UH Art,                  29723037, -95344727
+UH Baseball Chairs,      29727145, -95344377
+UH Seal,                 29719834, -95341884
+UH Walking Giants,       29724053, -95343020
+Violin Player,           29724617, -95342180
+Waterfall,               29720874, -95344698
+Welcome Center,          29718716, -95339504
+Winged Victory,          29725596, -95344114
